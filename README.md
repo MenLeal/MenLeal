@@ -1,4 +1,4 @@
-[![MasterHead](https://www.letsnurture.com/wp-content/uploads/2014/08/Android-Mobile-Application-Development-letsnurture-1.png)]
+![MasterHead](https://www.letsnurture.com/wp-content/uploads/2014/08/Android-Mobile-Application-Development-letsnurture-1.png)
 <h1 align="center">Hi 👋, I'm Mauricio Meneses</h1>
 <h3 align="center">A passionate mobile developer from México</h3>
 
