@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **Flutter, Java, PHP and Debian**
 
-- 📫 How to reach me **menleal@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
